@@ -1,0 +1,40 @@
+body{
+/* background:rgb(69, 68, 68)  !important; */
+font-family: 'Times New Roman', Times, serif, sans-serif;
+font-size: 24px;
+ background-image: url('https://wallpapers.com/images/hd/fortnite-chapter-2-season-6-9d6gbsb4sr07aa4k.jpg') !important;
+background-size: cover; /* масштабировать изображение, чтобы оно покрывало весь фон */
+  background-position: center; /* центрировать изображение */
+  background-repeat: no-repeat; /* не повторять изображение */
+}
+.navi{
+    background :rgba(131, 131, 131, 0.993) !important;
+}
+table{
+    font-size:48px;
+        border: dotted 1px black;
+    border-collapse: collapse;
+background :rgba(255, 255, 255, 0.993)
+}
+td{
+/* border :dotted 1px black;     */
+text-align : center; 
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+#sosa {
+    background-color: aquamarine;
+}
+h1{
+    text-align : center; 
+}
+table{
+    text-align : center;
+}
+.fortnite{
+    background:rgb(0, 0, 0)  !important;
+    color:aliceblue  !important;
+    width: auto !important;
+}
+
